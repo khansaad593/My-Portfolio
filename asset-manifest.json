@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.a7a5b61e.css",
+    "main.js": "/My-Portfolio/static/js/main.6873027b.js",
+    "static/js/787.2dcca737.chunk.js": "/My-Portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/cheggindia.png": "/My-Portfolio/static/media/cheggindia.0250f54f68e81ccdf01a.png",
+    "static/media/aisummarizer.png": "/My-Portfolio/static/media/aisummarizer.1a4371a4da115bd99122.png",
+    "static/media/plantnursery.png": "/My-Portfolio/static/media/plantnursery.ab051f048b61a20db338.png",
+    "static/media/salesine.png": "/My-Portfolio/static/media/salesine.d0a0aff2c8c8349e4110.png",
+    "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/currencyconverter.png": "/My-Portfolio/static/media/currencyconverter.7744652b226044506795.png",
+    "static/media/tictactoe.png": "/My-Portfolio/static/media/tictactoe.42f108ced11e66921ccc.png",
+    "static/media/home-bg.jpg": "/My-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/My-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.a7a5b61e.css.map": "/My-Portfolio/static/css/main.a7a5b61e.css.map",
+    "main.6873027b.js.map": "/My-Portfolio/static/js/main.6873027b.js.map",
+    "787.2dcca737.chunk.js.map": "/My-Portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a5b61e.css",
+    "static/js/main.6873027b.js"
+  ]
+}
